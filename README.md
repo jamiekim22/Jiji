@@ -1,0 +1,2 @@
+# Jiji
+Jiji discord bot
