@@ -1,2 +1,2 @@
 # Jiji
-Jiji discord bot
+Discord bot for personal use
