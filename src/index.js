@@ -26,6 +26,7 @@ client.on("messageCreate", (message) => {
   }
 });
 
+// Slash functions
 client.on("interactionCreate", (interaction) => {
   if (!interaction.isChatInputCommand()) return;
 
