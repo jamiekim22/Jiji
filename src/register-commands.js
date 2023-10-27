@@ -18,13 +18,13 @@ const commands = [
         type: ApplicationCommandOptionType.Number,
         choices: [
           {
-            name: 'one',
+            name: "one",
             value: 1,
           },
           {
-            name: 'two',
+            name: "two",
             value: 2,
-          }
+          },
         ],
         required: true,
       },
@@ -35,6 +35,10 @@ const commands = [
         required: true,
       },
     ],
+  },
+  {
+    name: "embed",
+    description: "sends an embed.",
   },
 ];
 
